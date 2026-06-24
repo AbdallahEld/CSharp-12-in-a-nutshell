@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emul8/CHIP-8 Description.md",
+                "file": "SignalR/Before SignalR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHIP-8 Description"
+              "title": "Before SignalR"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "309e788d3a89d51e",
   "lastOpenFiles": [
-    "Emul8/How Does a CPU Work.md",
+    "SignalR/Before SignalR.md",
+    "SignalR",
     "Emul8/CHIP-8 Description.md",
+    "Emul8/How Does a CPU Work.md",
     "Binary & Hexadecimal Number System/Binary & Hexadecimal.md",
     "Emul8/Emul8 Study Notes.md",
     "Emul8",
@@ -216,7 +218,6 @@
     "Secure Software Development Lifecycle/Chapter 02 Building Security Requirements.md",
     "Chapter 01 Security Awareness.md",
     "Secure Software Development Life Cycle.md",
-    "Secure Source Code Course.md",
     "Secure Software Development Lifecycle/Images/Pasted image 20260413115254.png",
     "Pasted image 20260413115332.png",
     "Secure Software Development Lifecycle/Images/Pasted image 20260413115023.png",
@@ -225,7 +226,6 @@
     "Secure Software Development Lifecycle/Images/Pasted image 20260413114429.png",
     "Screenshot 2025-12-09 071546.png",
     "download.jfif",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "Untitled 2.base"
   ]
 }
