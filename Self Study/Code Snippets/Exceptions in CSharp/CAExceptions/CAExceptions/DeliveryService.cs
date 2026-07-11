@@ -16,14 +16,27 @@ namespace CAExceptions
                 Transit(delivery);
                 Deliver(delivery);
             }
+            catch (AccidentException ex)
+            {
+                throw;
+                //Console.WriteLine($"Exception happened due to: {ex.Message}");
+                //delivery.DeliveryStatus = DeliveryStatus.UNKOWN;
+            }
+            catch (InvalidAddressException ex)
+            {
+                throw;
+                //Console.WriteLine($"Exception happened due to: {ex.Message}");
+                //delivery.DeliveryStatus = DeliveryStatus.UNKOWN;
+            }
             catch (Exception ex)
             {
-                Console.WriteLine($"Exception happened due to: {ex.Message}");
-                delivery.DeliveryStatus = DeliveryStatus.UNKOWN;
+                throw;
+                //Console.WriteLine($"Exception happened due to: {ex.Message}");
+                //delivery.DeliveryStatus = DeliveryStatus.UNKOWN;
             }
             finally
             {
-
+                Console.WriteLine("End");
             }
         }
 
@@ -48,11 +61,19 @@ namespace CAExceptions
         private void Transit (Delivery delivery)
         {
             FakeIt("On Its way");
+            if(random.Next(1, 5) == 1)
+            {
+                throw new AccidentException("Highway 101", "Accident happened on the way");
+            }
             delivery.DeliveryStatus = DeliveryStatus.INTRANSIT;
         }
         private void Deliver (Delivery delivery)
         {
             FakeIt("Delivering");
+            if (random.Next(1, 5) == 1)
+            {
+                throw new InvalidAddressException($"{delivery.Address}: is invalid");
+            }
             delivery.DeliveryStatus = DeliveryStatus.DELIVERDED;
         }
         private void FakeIt(string title)
