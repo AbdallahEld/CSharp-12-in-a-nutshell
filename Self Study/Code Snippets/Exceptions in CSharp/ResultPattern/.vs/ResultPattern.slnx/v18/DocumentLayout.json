@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\controllers\\testresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\controllers\\testresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDEC934F-6EF0-4D05-A86E-38627D13E66A}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\controllers\\testresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\controllers\\testresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|f:\\github\\back-end-notes\\self study\\code snippets\\exceptions in csharp\\resultpattern\\resultpattern\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8FCFC8-14EB-37BD-10A9-17D51B2B156B}|ResultPattern\\ResultPattern.csproj|solutionrelative:resultpattern\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Program.cs",
               "RelativeDocumentMoniker": "ResultPattern\\Program.cs",
               "ToolTip": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Program.cs",
               "RelativeToolTip": "ResultPattern\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAgwBcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-11T12:54:00.997Z",
               "IsPinned": true,
@@ -41,19 +45,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ResultPattern\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ResultPattern\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-11T13:38:27.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TestResultController.cs",
               "DocumentMoniker": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Controllers\\TestResultController.cs",
               "RelativeDocumentMoniker": "ResultPattern\\Controllers\\TestResultController.cs",
               "ToolTip": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Controllers\\TestResultController.cs",
               "RelativeToolTip": "ResultPattern\\Controllers\\TestResultController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAADwvzgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T13:08:09.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-11T13:08:09.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Result.cs",
               "DocumentMoniker": "F:\\Github\\Back-End-Notes\\Self Study\\Code Snippets\\Exceptions in CSharp\\ResultPattern\\ResultPattern\\Result Pattern\\Result.cs",
               "RelativeDocumentMoniker": "ResultPattern\\Result Pattern\\Result.cs",
@@ -61,12 +81,7 @@
               "RelativeToolTip": "ResultPattern\\Result Pattern\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T13:03:38.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2026-07-11T13:03:38.264Z"
             }
           ]
         }
